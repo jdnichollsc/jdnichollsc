@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm J.D. Nicholls 👋
+
+![GitHub Profile](profile.jpeg)
+> Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 Support [me](https://github.com/sponsors/jdnichollsc), if you do too.
 
 <!--
 **jdnichollsc/jdnichollsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
