@@ -3,6 +3,7 @@
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 Support [me](https://github.com/sponsors/jdnichollsc), if you do too.
 
+Made with ❤️
 <!--
 **jdnichollsc/jdnichollsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
