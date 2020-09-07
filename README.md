@@ -24,7 +24,9 @@
 Looking for a social change? Do you want to change the world? Give us a hand, Join [us](https://github.com/proyecto26/social-change)! ✋
 
 ### Made with `<3`
-One hand can accomplish great things, but many can take you into space and beyond! 🌌 Together we do more, together we are more ❤️
+One hand can accomplish great things, but many can take you into space and beyond! 🌌
+
+Together we do more, together we are more ❤️
 <!--
 **jdnichollsc/jdnichollsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
