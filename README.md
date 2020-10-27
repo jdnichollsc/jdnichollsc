@@ -1,4 +1,10 @@
 ### Hello world, I'm J.D. Nicholls 👋
+<p align="right">
+<a href="https://twitter.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter jdnichollsc" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn jdnichollsc" height="30" width="30" /></a>
+<a href="https://fb.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook jdnichollsc" height="30" width="30" /></a>
+<a href="https://www.codepen.io/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Codepen jdnichollsc" height="30" width="30" /></a>
+</p>
 
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 Support [me](https://github.com/sponsors/jdnichollsc), if you do too.
