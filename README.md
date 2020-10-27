@@ -44,6 +44,12 @@
   <a href="https://slides.com/juandavidnicholls/phaser-workshop">
     <img alt="Isometric worlds and Real Time games!" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/9fbc37b2353def9514bffa2c55775d07/thumb.jpg?1603774939" width="150">
   </a>
+  <a href="https://slides.com/juandavidnicholls/azure-iot">
+    <img alt="Azure and Internet of Things" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/1b1f956bd57a99cefb1cb08cb955780a/thumb.jpg?1603808687" width="150">
+  </a>
+  <a href="https://slides.com/juandavidnicholls/native-mobile-apps">
+    <img alt="Native Mobile Apps with React Native and NativeScript" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/15b76b9403034220565c9f06b3204722/thumb.jpg?1561509127" width="150">
+  </a>
   <a href="https://slides.com/juandavidnicholls/node-js">
     <img alt="Node.js" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/7c4234a7434d7fba33ec1ad7ebc6c34b/thumb.jpg?1603775068" width="150">
   </a>
