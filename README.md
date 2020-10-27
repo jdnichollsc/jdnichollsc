@@ -47,6 +47,9 @@
   <a href="https://slides.com/juandavidnicholls/html5">
     <img alt="What can we do with HTML5?" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/91fc0267e4da0c8b012bd7ae0f834ba1/thumb.jpg?1603775550" width="150">
   </a>
+  <a href="https://slides.com/juandavidnicholls/apps-moviles">
+    <img alt="Apps Móviles Híbridas Cross-platform" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/f80c8bf02845a9205bb0c0e93820abbe/thumb.jpg?1603652025" width="150">
+  </a>
   <a href="https://slides.com/juandavidnicholls/juegos-en-javascript">
     <img alt="Juegos en JavaScript" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/juandavidnicholls/f07587/juegos-en-javascript.jpg" width="150">
   </a>
