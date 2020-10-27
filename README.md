@@ -21,7 +21,7 @@
 </details>
 
 <details open>
-  <summary><b>Presentations</b></summary>
+  <summary><b>Talks</b></summary>
 
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
     <img alt="Real-time & Hooks with React" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/3a059e9964b2646dcd227fd39b721813/thumb.jpg?1597903385" width="150">
