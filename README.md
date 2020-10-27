@@ -32,6 +32,15 @@
   <a href="https://slides.com/juandavidnicholls/react-hooks">
     <img alt="React Hooks" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/77e61269d16cc9e49a4d76c13bcf6d56/thumb.jpg?1598320825" width="150">
   </a>
+  <a href="https://slides.com/juandavidnicholls/mobile-first-apps-web-native">
+    <img alt="Mobile First Apps Web & Native" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/f168eef141c669b85629fb6665d9bd52/thumb.jpg?1603807477" width="150">
+  </a>
+  <a href="https://slides.com/juandavidnicholls/my-bot">
+    <img alt="Creating my first Multi-Language Bot!" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/6243a9c19a6c5cf561dd708a3b514f85/thumb.jpg?1603807958" width="150">
+  </a>
+  <a href="https://slides.com/juandavidnicholls/bot-framework">
+    <img alt="A presentation about Azure Bot Service and Bot Framework" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/cccc16e04aa7a002cba1050d2d7e47b9/thumb.jpg?1603808271" width="150">
+  </a>
   <a href="https://slides.com/juandavidnicholls/phaser-workshop">
     <img alt="Isometric worlds and Real Time games!" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/9fbc37b2353def9514bffa2c55775d07/thumb.jpg?1603774939" width="150">
   </a>
