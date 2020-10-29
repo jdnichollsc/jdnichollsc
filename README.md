@@ -20,7 +20,7 @@
 - 🔭 Para otros los errores de uno pueden parecer estúpidos, y más porque la mayoría juzga con lo que ve a primera vista, pero no hay diamante perfecto que se haya hecho sin tenerse que haber pulido bastante primero, es por eso que cagarla es bueno si aprendes de tus errores de manera temprana, si forjas unas bases solidas para luego crecer hasta donde te lo propongas, porque en cambio hay gente en la vida que cree que lo ha hecho todo perfecto, a su modo, que sus acciones no contemplan errores, y la mayoría no llegan a tener un gran propósito e impacto en la vida de otros. Aveces tienes que ser ese ejemplo, el que más ha sufrido, el que más ha caído pero que te has levantado de nuevo con la ayuda de Dios, para ser quien le enseñe a todos algo que no habían visto, sin soberbia y con la humildad de saber todo lo que te costó para llegar a donde te encuentras... así que mira con otros ojos, no te deprimas por el ahora que es temporal, concentra tus ojos en el futuro porque para eso tienes tiempo, para descubrir hasta donde podrás llegar y el impacto que tendrás en la vida de los demás, porque al final somos una pequeña luz en toda este basta oscuridad llamada Universo.
 </details>
 
-<details open>
+<details>
   <summary><b>Talks</b></summary>
 
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
