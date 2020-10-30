@@ -4,7 +4,7 @@
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 Support [me](https://github.com/sponsors/jdnichollsc), if you do too.
 
 <details>
-  <summary><b>Quotes</b></summary>
+  <summary><b>Quotes 📝</b></summary>
 
 - 🌱 To be, or not to be, that's not the dilemma... Let it be!
 - 🌌 The universe is order from chaos, a beautiful contradiction
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary><b>Talks</b></summary>
+  <summary><b>Talks 🎬</b></summary>
 
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
     <img alt="Real-time & Hooks with React" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/3a059e9964b2646dcd227fd39b721813/thumb.jpg?1597903385" width="150">
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary><b>Other links</b></summary>
+  <summary><b>Other links 🍬</b></summary>
   
   - [Job Interview](https://gist.github.com/jdnichollsc/b9bedff406b54c3ae2cd651512683b51).
   - [ALM (Application lifecycle management)](https://1drv.ms/p/s!AuuT0nlcIqEUyBqk3-ueD4-0z2do).
