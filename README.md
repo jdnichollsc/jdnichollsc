@@ -54,7 +54,7 @@
     <img alt="Node.js" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/7c4234a7434d7fba33ec1ad7ebc6c34b/thumb.jpg?1603775068" width="150">
   </a>
   <a href="https://slides.com/juandavidnicholls/phaser">
-    <img alt="This is Phaser!" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/3b62b07afb15f666a54e5cc396194141/thumb.jpg?1" width="150">
+    <img alt="This is Phaser!" src="img/phaser.png" width="150">
   </a>
   <a href="https://slides.com/juandavidnicholls/javascript">
     <img alt="JavaScript Course" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/a5f43392a4532dc9c14561c91973efe6/thumb.jpg?1603775441" width="150">
