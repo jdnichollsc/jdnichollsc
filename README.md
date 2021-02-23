@@ -1,4 +1,4 @@
-### Hello universe, I'm J.D. Nicholls 👋
+### Hello Universe, I'm J.D. Nicholls 👋
 
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 Support [me](https://github.com/sponsors/jdnichollsc), if you do too.
