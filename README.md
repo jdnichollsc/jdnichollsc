@@ -102,8 +102,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="https://twitter.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter jdnichollsc" height="30" width="30" /></a>
+<a href="https://twitter.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter lcarloszapatag" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn jdnichollsc" height="30" width="30" /></a>
-<a href="https://fb.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook jdnichollsc" height="30" width="30" /></a>
-<a href="https://www.codepen.io/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Codepen jdnichollsc" height="30" width="30" /></a>
+<a href="https://fb.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook luis carlos zapata" height="30" width="30" /></a>
+<a href="https://www.codepen.io/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Codepen lcarloszapatag" height="30" width="30" /></a>
 </p>
