@@ -23,6 +23,9 @@
 <details open>
   <summary><b>Open Talks 🎬</b></summary>
 
+  <a href="https://slides.com/juandavidnicholls/smart-contracts">
+    <img alt="Smart Contracts for Devs 📜" src="https://media.slid.es/thumbnails/e2b60044c3ae4343f8a472a58e6d626b/thumb.jpg?1636242681" width="150">
+  </a>
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
     <img alt="Real-time & Hooks with React" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/3a059e9964b2646dcd227fd39b721813/thumb.jpg?1597903385" width="150">
   </a>
