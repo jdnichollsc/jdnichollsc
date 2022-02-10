@@ -83,6 +83,13 @@
   - [Aplicaciones en Facebook con ASP.NET MVC, Entity Framework y Facebook SDK](https://1drv.ms/p/s!AuuT0nlcIqEUjRi32ZZvlOpHE_B-).
 </details>
 
+Sometimes, I also blog:
+- 22-May-2020: [Meet Animatable, a tiny Web Component to use WAAPI as a Component](https://dev.to/jdnichollsc/meet-animatable-a-tiny-web-component-to-use-web-animations-api-as-a-component-1glh) 💫
+- 28-Jan-2015: [Creating HTML5 games with Phaser and Visual Studio Online](http://www.nicholls.co/blog/post/Creando-Juegos-HTML5-con-Phaser-en-Monaco) 🇨🇴
+- 01-Jan-2015: [Getting started with Babylon.js](http://www.nicholls.co/blog/post/Iniciando-con-Babylonjs) 🇨🇴
+- 14-Dec-2014: [Digital Animation with Blender](http://www.nicholls.co/blog/post/Animacion-Digital-con-Blender) 🇨🇴
+- 13-Jul-2014: [Developing Websites with Kooboo CMS](http://www.nicholls.co/blog/post/Desarrollando-Sitios-Web-Administrables-con-Kooboo-CMS) 🇨🇴
+
 ### Social Change
 Looking for a social change? Do you want to change the world? Give us a hand, Join [us](https://github.com/proyecto26/social-change)! ✋
 
