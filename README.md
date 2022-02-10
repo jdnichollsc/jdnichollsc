@@ -3,6 +3,8 @@
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 Support [me](https://github.com/sponsors/jdnichollsc), if you do too.
 
+I work on projects for the JS (Web, Mobile, Games) and .NET (Unity) ecosystem like [InAppBrowser for React Native 📱](https://github.com/proyecto26/react-native-inappbrowser), [InAppBrowser for NativeScript 📱](https://github.com/proyecto26/nativescript-inappbrowser), [Animatable 💫](https://github.com/proyecto26/animatable-component), [MyAPI ☁️](https://github.com/proyecto26/MyAPI), [MyApp 🤳](https://github.com/proyecto26/MyApp), [IonPhaser 🕹️](https://github.com/proyecto26/ion-phaser), [RestClient for Unity 🤘](https://github.com/proyecto26/RestClient), [phaser-kinetic-scrolling-plugin 🎥](https://github.com/proyecto26/Phaser-Kinetic-Scrolling-Plugin), [MyBot 🤖](https://github.com/proyecto26/MyBot), [The Job Interview Guide 💼](https://github.com/proyecto26/TheJobInterviewGuide) and many more! 🍭🍬🍫🍦🍩🥧🍨🍰🍪🧁🍯🍧🍮
+
 <details>
   <summary><b>Quotes 📝</b></summary>
 
@@ -118,7 +120,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="center" style="background-color:white">
 <a href="https://twitter.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter jdnichollsc" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn jdnichollsc" height="30" width="30" /></a>
 <a href="https://fb.com/jdnichollsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook jdnichollsc" height="30" width="30" /></a>
