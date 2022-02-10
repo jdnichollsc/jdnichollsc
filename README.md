@@ -89,6 +89,12 @@ Sometimes, I also blog:
 - 01-Jan-2015: [Getting started with Babylon.js](http://www.nicholls.co/blog/post/Iniciando-con-Babylonjs) 🇨🇴
 - 14-Dec-2014: [Digital Animation with Blender](http://www.nicholls.co/blog/post/Animacion-Digital-con-Blender) 🇨🇴
 - 13-Jul-2014: [Developing Websites with Kooboo CMS](http://www.nicholls.co/blog/post/Desarrollando-Sitios-Web-Administrables-con-Kooboo-CMS) 🇨🇴
+- 29-Nov-2013: [Knockout.js and Linq.js with ASP.NET MVC and Entity Framework to make Web Development simpler!](ckoutjs-y-Linqjs-con-ASPNET-MVC-y-Entity-Framework-para-hacer-nuestros-Desarrollos-Web-mucho-mas-simples!) 🇨🇴
+- 27-Jul-2013: [Developing HTML5 Websites and taking a look at ASP.NET MasterPages](http://www.nicholls.co/blog/post/Desarrollando-organizadamente-con-MasterPages) 🇨🇴
+- 17-Jul-2013: [Youtube API & .NET](http://www.nicholls.co/blog/post/Youtube-API-y-NET) 🇨🇴
+- 14-Jul-2013: [User Authentication in ASP.NET](http://www.nicholls.co/blog/post/Autenticacion-de-Usuarios-en-ASPNET) 🇨🇴
+- 07-Jul-2013: [Real-Time Apps, HTML5 & Node.JS](http://www.nicholls.co/blog/post/Aplicaciones-en-Tiempo-Real-HTML5-y-NodeJS) 🇨🇴
+- 04-Jul-2013: [Javascript Ajax & WebForms](http://www.nicholls.co/blog/post/Javascript-Ajax-y-WebForms) 🇨🇴
 
 ### Social Change
 Looking for a social change? Do you want to change the world? Give us a hand, Join [us](https://github.com/proyecto26/social-change)! ✋
