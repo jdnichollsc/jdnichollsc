@@ -86,6 +86,7 @@ I work on projects for the JS (Web, Mobile, Games, Crypto) and .NET (Web, Unity)
 </details>
 
 Sometimes, I also blog:
+- 07-Apr-2022: [Testing with NestJS like a Pro](https://dev.to/jdnichollsc/testing-with-nestjs-like-a-pro-3i2b)
 - 22-May-2020: [Meet Animatable, a tiny Web Component to use WAAPI as a Component](https://dev.to/jdnichollsc/meet-animatable-a-tiny-web-component-to-use-web-animations-api-as-a-component-1glh) 💫
 - 28-Jan-2015: [Creating HTML5 games with Phaser and Visual Studio Online](http://www.nicholls.co/blog/post/Creando-Juegos-HTML5-con-Phaser-en-Monaco) 🇨🇴
 - 01-Jan-2015: [Getting started with Babylon.js](http://www.nicholls.co/blog/post/Iniciando-con-Babylonjs) 🇨🇴
