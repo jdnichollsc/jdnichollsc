@@ -81,7 +81,7 @@ I work on projects for the JS (Web, Mobile, Games, Crypto) and .NET (Web, Unity)
   
   - [The Job Interview Guide](https://gist.github.com/jdnichollsc/b9bedff406b54c3ae2cd651512683b51).
   - [ALM (Application lifecycle management)](https://1drv.ms/p/s!AuuT0nlcIqEUyBqk3-ueD4-0z2do).
-  - [Creación de aplicaciones Web utilizando las últimas tecnologías con ASP.NET](https://1drv.ms/p/s!AuuT0nlcIqEUzxmAd40bYha56FV3).
+  - [Creación de aplicaciones Web utilizando las últimas tecnologías con ASP.NET](https://1drv.ms/p/s!AuuT0nlcIqEUzxmAd40bYha56FV3) (Microsoft DevCamp 2014).
   - [Aplicaciones en Facebook con ASP.NET MVC, Entity Framework y Facebook SDK](https://1drv.ms/p/s!AuuT0nlcIqEUjRi32ZZvlOpHE_B-).
 </details>
 
