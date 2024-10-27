@@ -111,7 +111,7 @@ Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT/USDC**, **DOGE**, etc:
 
 > Wallet address: jdnichollsc.eth
 
-Please let us know your contributions! 🙏
+Please let me know your contributions! 🙏
 
 ### Made with `<3`
 One hand can accomplish great things, but many can take you into space and beyond! 🌌
