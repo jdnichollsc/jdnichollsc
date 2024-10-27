@@ -1,4 +1,4 @@
-### Hello Universe, I'm J.D. Nicholls 👋
+## Hello Universe, I'm J.D. Nicholls 👋
 
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 [Support me](https://github.com/sponsors/jdnichollsc), if you do too.
@@ -102,6 +102,16 @@ Sometimes, I also blog:
 
 ### Social Change
 Looking for a social change? Do you want to change the world? Give us a hand, Join [us](https://github.com/proyecto26/social-change)! ✋
+
+### Supporting 🍻
+I believe in Unicorns 🦄
+Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
+
+Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT/USDC**, **DOGE**, etc:
+
+> Wallet address: jdnichollsc.eth
+
+Please let us know your contributions! 🙏
 
 ### Made with `<3`
 One hand can accomplish great things, but many can take you into space and beyond! 🌌
