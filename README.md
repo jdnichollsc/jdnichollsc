@@ -26,6 +26,9 @@ I work on projects for the JavaScript/TypeScript (Web, Mobile, Games, Crypto) an
 <details open>
   <summary><b>Open Talks 🎬</b></summary>
 
+  <a href="https://slides.com/juandavidnicholls/projectx">
+    <img alt="Temporal 101 Workshop" src="https://media.slid.es/thumbnails/8f4dfa9efcb70541c3aa77e7496ef926/thumb.jpg?1738338081" width="150">
+  </a>
   <a href="https://slides.com/juandavidnicholls/temporal-workshop-cityjs">
     <img alt="Workshop of Event-Driven Architectures for Full-Stack Developers with Temporal and React" src="https://media.slid.es/thumbnails/01e5a7545725b6744214db15256d7cfc/thumb.jpg?1728492693" width="150">
   </a>
