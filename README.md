@@ -8,6 +8,7 @@ I work on projects for the JavaScript/TypeScript (Web, Mobile, Games, Crypto) an
 <details>
   <summary><b>Quotes 📝</b></summary>
 
+- 🚶‍♂️ The purpose of life isn't to arrive, but to not give up on the journey of finding ourselves as we keep moving forward. — J.D.
 - 🌱 To be, or not to be, that's not the dilemma... Let it be!
 - 🌌 The universe is order from chaos, a beautiful contradiction
 - 🌎 Our comfort zone is the Earth
